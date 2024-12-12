@@ -1,0 +1,1 @@
+[{"eventTicketId":1,"vendorName":"cricket","title":"cricket","maxTicketCapacity":25,"ticketReleaseRate":5,"ticketReleaseInterval":1000,"customerRetrievalRate":2,"customerRetrievalInterval":3000,"totalTickets":200}]

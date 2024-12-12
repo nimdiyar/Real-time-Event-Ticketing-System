@@ -1,0 +1,6 @@
+com\mycompany\ticketingcli\Configuration.class
+com\mycompany\ticketingcli\Vendor.class
+com\mycompany\ticketingcli\TicketingCLI.class
+com\mycompany\ticketingcli\Customer.class
+com\mycompany\ticketingcli\TicketPool.class
+com\mycompany\ticketingcli\Configuration$1.class
